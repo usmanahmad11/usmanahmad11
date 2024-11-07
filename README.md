@@ -7,8 +7,7 @@ Welcome to my digital lab! 🚀 As a passionate educator, researcher, and develo
 
 ## 💡 About Me
 - **Educator & Researcher:** Guiding the next generation in Machine Learning and Python. Proud to hold an FHEA certification for my commitment to effective teaching.
-- **Innovator from Pakistan:** Grew up in a small village, driven to use technology to uplift underprivileged communities.
-- **Dreamer:** My ultimate vision is to establish a school in my village, providing quality education to those who need it most.
+
 
 ---
 
