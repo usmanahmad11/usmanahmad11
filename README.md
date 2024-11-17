@@ -35,7 +35,7 @@ Welcome to my digital lab! 🚀 I’m an educator, researcher, and developer on 
 
 ## 🌐 Connect With Me!
 - [LinkedIn](https://www.linkedin.com/in/usman-ahmad-fhea-mscs-005837140/)  
-- [Twitter](https://twitter.com/yourtwitterhandle)  
+- [Twitter](https://x.com/usmanahmaad50)  
 
 If you enjoy or find my projects helpful, don’t forget to ⭐️ a repository!
 
