@@ -1,6 +1,3 @@
-# Recreating the README.md file content due to a reset state.
-
-
 # Hi there, I'm Usman Ahmad! 👋
 
 Welcome to my digital lab! 🚀 I’m an educator, researcher, and developer on a mission to make technology impactful and accessible.
