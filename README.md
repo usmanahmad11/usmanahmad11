@@ -34,20 +34,15 @@ Welcome to my digital lab! 🚀 I’m an educator, researcher, and developer on 
 ---
 
 ## 🌐 Connect With Me!
-- [LinkedIn](https://www.linkedin.com/in/usman-ahmad11/)  
+- [LinkedIn](https://www.linkedin.com/in/usman-ahmad-fhea-mscs-005837140/)  
 - [Twitter](https://twitter.com/yourtwitterhandle)  
 
-If you enjoy my projects or find them helpful, don’t forget to ⭐️ a repository!
+If you enjoy or find my projects helpful, don’t forget to ⭐️ a repository!
 
 ---
 
 ![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanahmad11&show_icons=true&theme=radical)
 """
 
-# Saving the remade content into a new README.md file.
-remade_file_path = '/mnt/data/README_remade.md'
-with open(remade_file_path, 'w') as file:
-    file.write(remade_readme_content)
 
-remade_file_path
 
