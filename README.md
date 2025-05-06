@@ -29,7 +29,7 @@ Welcome to my digital lab! 🚀 I’m an educator, researcher, and developer on 
 ## 🌱 Fun Facts
 - 📚 Always learning—currently diving into NLP and advanced computer vision.  
 - 🌍 Lifelong advocate for accessible education, fueled by my scholarship journey.  
-- 🏨 Entrepreneurial spirit: Proud to manage multiple hotel ventures in the U.S.
+
 
 ---
 
